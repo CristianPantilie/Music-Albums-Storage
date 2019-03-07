@@ -7,7 +7,7 @@
 
 For reading from file the following format has to be used:
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;album,artist,apparition,grade,category,type,album(A) or single(S),duration
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;album,artist,apparition,grade,category,type,album(A) or single(S),duration
 
 Mandatory comma between them
 
